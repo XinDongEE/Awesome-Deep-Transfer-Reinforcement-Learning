@@ -1,9 +1,9 @@
 ## Awesome-Deep-Transfer-Reinforcement-Learning
 [![author](https://img.shields.io/badge/Author-Xindong-blueviolet.svg)](https://github.com/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning)
 [![Version](https://img.shields.io/badge/Version-v1.0-brightgreen.svg)](https://github.com/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning)
-![issues](https://img.shields.io/github/issues/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning.svg) ![stars](https://img.shields.io/github/stars/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning.svg)
-![license](https://img.shields.io/github/license/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning.svg)
-![forks](	https://img.shields.io/github/forks/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning.svg)
+![issues](https://img.shields.io/github/issues/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning.svg) 
+![stars](https://img.shields.io/github/stars/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning.svg)
+![forks](https://img.shields.io/github/forks/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning.svg)
 
 ### __Contents__
 - [__Reward Shaping__](#heading-one)
