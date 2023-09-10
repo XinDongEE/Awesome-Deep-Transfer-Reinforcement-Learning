@@ -7,17 +7,36 @@
 
 ### __Contents__
 - [__Reward Shaping__](#heading-one)
-	- [[1]Z. Zhu, K. Lin, A. K. Jain and J. Zhou, "[Transfer Learning in Deep Reinforcement Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/10172347)," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2023.3292075].]
-	- [[2]](#bbb)
+	- **[1]**   Z. Zhu, K. Lin, A. K. Jain and J. Zhou, "[Transfer Learning in Deep Reinforcement Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/10172347),"   _IEEE Transactions on Pattern Analysis and Machine Intelligence_, doi: 10.1109/TPAMI.2023.3292075.
+	- **[2]**   T. Brys, A. Harutyunyan, M. E. Taylor, and A. Nowe, "[Policy transfer using reward shaping](https://dl.acm.org/doi/10.5555/2772879.2772905),"   _ICAAMS_,  2015.
+	- **[3]**   Vecerik, M. "[Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards](https://arxiv.org/abs/1707.08817),"   _arXiv preprint_: 1707.08817, 2017.
+  	- **[4]**   A. C. Tenorio-Gonzalez, E. F. Morales, and L. Vilasenor-Pineda, "[Dynamic reward shaping: Training a robot by voice](https://link.springer.com/chapter/10.1007/978-3-642-16952-6_49)," _Advances in Artificial Intelligence_,   IBERAMIA, 2010.
+	- **[5]**   P.-H. Su, D. Vandyke, M. Gasic, N. Mrksic, T.-H.Wen, and S. Young, "[Reward shaping with recurrent neural networks for speeding up on-line policy learning in spoken dialogue systems](https://arxiv.org/abs/1508.03391),"  _arXiv preprint_: 1508.03391, 2015.
+	- **[6]**   X. V. Lin, R. Socher, and C. Xiong, "[Multi-hop knowledge graph reasoning with reward shaping](https://arxiv.org/abs/1808.10568),"  _arXiv preprint_: 1808.10568, 2018..
+	- **[7]**   S. Devlin, L. Yliniemi, D. Kudenko, and K. Tumer, "[Potential-based difference rewards for multiagent reinforcement learning](https://dl.acm.org/doi/10.5555/2615731.2615761#:~:text=Difference%20rewards%20and%20potential-ased%20reward%20shaping%20can%20both,capture%20an%20agent%27s%20contribution%20to%20the%20system%27s%20performance.),"  _ICAAMS_: 2014.
+	- **[8]**   M. Grzes and D. Kudenko, "[Learning shaping rewards in model-based reinforcement learning](https://eecs.wsu.edu/~taylorm/ALA09/7.pdf),"  _Proc. AAMAS Workshop on Adaptive Learning Agents_, 2009.
+
 - [__Learning from Demonstarts__](#heading-two)
-	- [[1]](#aaa)
-	- [[2]](#bbb)
+	- **[1]**   X. Zhang and H. Ma, "[Pretraining deep actor-critic reinforcement learning algorithms with expert demonstrations](https://arxiv.org/abs/1801.10459),"  _arXiv preprint_:1801.10459, 2018.
+	- **[2]**   Silver, D., Huang, A., Maddison, C. et al, "[Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961#citeas),"  _Nature_ 529, 484–489 (2016). https://doi.org/10.1038/nature16961.
+  	- **[3]**   T. Hester, M. Vecerik, O. Pietquin, M. Lanctot, T. Schaul, B. Piot, D. Horgan, J. Quan, A. Sendonaris, I. Osband et al., "[Deep q-learning from demonstrations](https://arxiv.org/abs/1704.03732),"  _AAAI_, 2018
+	- **[4]**   A. Nair, B. McGrew, M. Andrychowicz, W. Zaremba, and P. Abbeel, "[Overcoming exploration in reinforcement learning with demonstrations](https://arxiv.org/abs/1709.10089),"  _IEEE International Conference on Robotics and Automation (ICRA)_, 2018.
+
 - [__Inter-Task Mapping__](#heading-Three)
-	- [[1]](#aaa)
-	- [[2]](#bbb)
+	- **[1]**   A. Gupta, C. Devin, Y. Liu, P. Abbeel, and S. Levine, "[Learning invariant feature spaces to transfer skills with reinforcement learning](https://arxiv.org/abs/1703.02949),"  _ICLR_, 2017.
+	- **[2]**   V. Badrinarayanan, A. Kendall, and R. Cipolla, "[Segnet: A deep convolutional encoder-decoder architecture for image segmentation](https://ieeexplore.ieee.org/document/7803544),"  _IEEE transactions on pattern analysis and machine ntelligence_, 2017
+	- **[3]**   H. B. Ammar, E. Eaton, P. Ruvolo, and M. E. Taylor, "[Unsupervised cross-domain transfer in policy gradient reinforcement learning via manifold alignment](https://dl.acm.org/doi/10.5555/2886521.2886669),"  _AAAI_, 2015.
+	- **[4]**   H. B. Ammar, K. Tuyls, M. E. Taylor, K. Driessens, and G. Weiss, "[Reinforcement learning transfer via sparse coding](https://dl.acm.org/doi/10.5555/2343576.2343631),"  _ICAAMS_, 2012.
+	- **[5]**   J. Oh, S. Singh, H. Lee, and P. Kohli, "[Zero-shot task generalization with multi-task deep reinforcement learning](https://arxiv.org/abs/1706.05064),"  _Proc. 34th Int. Conf. Mach. Learn_, vol. 70, 2017, pp. 2661–2670.
+
 - [__Representation Transfer__](#heading-Three)
-	- [[1]](#aaa)
-	- [[2]](#bbb)
+	- **[1]**   J. C. Petangoda, S. Pascual-Diaz, V. Adam, P. Vrancx, and J. Grau-Moya, "[Disentangled skill embeddings for reinforcement learning](https://arxiv.org/abs/1906.09223),"  _arXiv preprint_:1906.09223, 2019.
+	- **[2]**   C. Finn, P. Abbeel, and S. Levine, "[Model-agnostic meta-learning for fast adaptation of deep networks](https://arxiv.org/abs/1703.03400),"  _ICML_, 2017.
+	- **[3]**   Y. Deng, F. Bao, Y. Kong, Z. Ren and Q. Dai, "[Deep Direct Reinforcement Learning for Financial Signal Representation and Trading](https://ieeexplore.ieee.org/document/7407387),"  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 28, no. 3, pp. 653-664, March 2017.
+	- **[4]**   F. -X. Devailly, D. Larocque and L. Charlin, "[IG-RL: Inductive Graph Reinforcement Learning for Massive-Scale Traffic Signal Control](https://ieeexplore.ieee.org/document/9405489),"  _IEEE Transactions on Intelligent Transportation Systems_, vol. 23, no. 7, pp. 7496-7507, July 2022,. 
+	- **[5]**   I. Higgins et al., "[Darla: Improving zero-shot transfer in reinforcement learning](https://arxiv.org/abs/1707.08475),"  _Proc. 34th Int. Conf. Mach. Learn_, vol. 70, 2017, pp. 1480–1490. 
+ 	- **[6]**   Q. Yan, S. Guo, D. Chen, Z. Yang and F. Chen, "[Transferable Environment Model With Disentangled Dynamics](https://ieeexplore.ieee.org/document/8755923),"  _IEEE Access_, vol. 7, pp. 106848-106860, 2019.
+ 	- **[7]**   Islam, T., Abid, D.M.H., Rahman, T., Zaman, Z., Mia, K., Hossain, R. (2023), "[Transfer Learning in Deep Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-981-19-1607-6_13#editor-information),"  _Proceedings of Seventh International Congress on Information and Communication Technology. Lecture Notes in Networks and Systems_, vol 447. Springer, Singapore.
 
 ### Acknowledgement
 Note: We will keep updating this __Library__. If you have proposed advanced and awesome models, welcome to send your paper/code link to us or raise a pull request. We will add them to this repo and update the __Library__ as soon as possible.
