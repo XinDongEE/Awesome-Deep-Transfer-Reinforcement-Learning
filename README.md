@@ -7,7 +7,7 @@
 
 ### __Contents__
 - [__Reward Shaping__](#heading-one)
-	- [[1]](#aaa)
+	- [[1]Z. Zhu, K. Lin, A. K. Jain and J. Zhou, "[Transfer Learning in Deep Reinforcement Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/10172347)," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2023.3292075].]
 	- [[2]](#bbb)
 - [__Learning from Demonstarts__](#heading-two)
 	- [[1]](#aaa)
