@@ -21,7 +21,7 @@
 	- **[2]**   Silver, D., Huang, A., Maddison, C. et al, "[Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961#citeas),"  _Nature_ 529, 484–489 (2016). https://doi.org/10.1038/nature16961.
   	- **[3]**   T. Hester, M. Vecerik, O. Pietquin, M. Lanctot, T. Schaul, B. Piot, D. Horgan, J. Quan, A. Sendonaris, I. Osband et al., "[Deep q-learning from demonstrations](https://arxiv.org/abs/1704.03732),"  _AAAI_, 2018
 	- **[4]**   A. Nair, B. McGrew, M. Andrychowicz, W. Zaremba, and P. Abbeel, "[Overcoming exploration in reinforcement learning with demonstrations](https://arxiv.org/abs/1709.10089),"  _IEEE International Conference on Robotics and Automation (ICRA)_, 2018.
-	- **[5]**   Yaser Keneshloo, Naren Ramakrishnan, Chandan K. Reddy, "[Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/abs/1810.06667),"   _arXiv preprint_:1810.06667. [Code Available](https://github.com/yaserkl/TransferRL).
+	- **[5]**   Yaser Keneshloo, Naren Ramakrishnan, Chandan K. Reddy, "[Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/abs/1810.06667),"   _arXiv preprint_:1810.06667. **[Code Available](https://github.com/yaserkl/TransferRL)**.
 
 - __Inter-Task Mapping__
 	- **[1]**   A. Gupta, C. Devin, Y. Liu, P. Abbeel, and S. Levine, "[Learning invariant feature spaces to transfer skills with reinforcement learning](https://arxiv.org/abs/1703.02949),"  _ICLR_, 2017.
