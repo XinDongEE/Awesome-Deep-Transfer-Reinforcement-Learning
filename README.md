@@ -44,4 +44,5 @@
  	- **[7]**   Islam, T., Abid, D.M.H., Rahman, T., Zaman, Z., Mia, K., Hossain, R. (2023), "[Transfer Learning in Deep Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-981-19-1607-6_13#editor-information),"  _Proceedings of Seventh International Congress on Information and Communication Technology. Lecture Notes in Networks and Systems_, vol 447. Springer, Singapore.
 
 ### Acknowledgement
-Note: We will keep updating this __Library__. If you have proposed advanced and awesome models, welcome to send your paper/code link to us or raise a pull request. We will add them to this repo and update the __Library__ as soon as possible. If you have any problems or contributions, please feel free to contact us on our email: xindong_scu@qq.com.
+Note: We will keep updating this __Library__. If you have proposed advanced and awesome models, welcome to send your paper/code link to us or raise a pull request. We will add them to this repo and update the __Library__ as soon as possible. 
+If you have any problems or contributions, please feel free to contact us on our email: xindong_scu@qq.com.
