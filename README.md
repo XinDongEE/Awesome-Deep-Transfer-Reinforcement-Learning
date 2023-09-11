@@ -22,7 +22,8 @@
   	- **[3]**   T. Hester, M. Vecerik, O. Pietquin, M. Lanctot, T. Schaul, B. Piot, D. Horgan, J. Quan, A. Sendonaris, I. Osband et al., "[Deep q-learning from demonstrations](https://arxiv.org/abs/1704.03732),"  _AAAI_, 2018
 	- **[4]**   A. Nair, B. McGrew, M. Andrychowicz, W. Zaremba, and P. Abbeel, "[Overcoming exploration in reinforcement learning with demonstrations](https://arxiv.org/abs/1709.10089),"  _IEEE International Conference on Robotics and Automation (ICRA)_, 2018.
 	- **[5]**   Yaser Keneshloo, Naren Ramakrishnan, Chandan K. Reddy, "[Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/abs/1810.06667),"   _arXiv preprint_:1810.06667. **[Code Available](https://github.com/yaserkl/TransferRL)**.
- - 	- **[6]**   Lian, R., H. Tan, J. Peng, Q. Li, Y. Wu, "[Cross-type transfer for deep reinforcement learning based hybrid electric vehicle energy management](https://ieeexplore.ieee.org/abstract/document/9105110),"  _IEEE Transactions on Vehicular Technology_, 2020. **[Code Available](https://github.com/lryz0612/Transfer_DRL_EMS)**.
+   	- **[6]**   Lian, R., H. Tan, J. Peng, Q. Li, Y. Wu, "[Cross-type transfer for deep reinforcement learning based hybrid electric vehicle energy management](https://ieeexplore.ieee.org/abstract/document/9105110),"  _IEEE Transactions on Vehicular Technology_, 2020. **[Code Available](https://github.com/lryz0612/Transfer_DRL_EMS)**.
+   	- **[7]**   Tianpei Yang, Jianye Hao, Zhaopeng Meng, "[Efficient Deep Reinforcement Learning via Adaptive Policy Transfer](https://arxiv.org/abs/2002.08037),"   _arXiv preprint_:2002.08037. **[Code Available](https://github.com/tianpeiyang/PTF_code)**.
 
 - __Inter-Task Mapping__
 	- **[1]**   A. Gupta, C. Devin, Y. Liu, P. Abbeel, and S. Levine, "[Learning invariant feature spaces to transfer skills with reinforcement learning](https://arxiv.org/abs/1703.02949),"  _ICLR_, 2017.
