@@ -29,6 +29,7 @@
 	- **[3]**   H. B. Ammar, E. Eaton, P. Ruvolo, and M. E. Taylor, "[Unsupervised cross-domain transfer in policy gradient reinforcement learning via manifold alignment](https://dl.acm.org/doi/10.5555/2886521.2886669),"  _AAAI_, 2015.
 	- **[4]**   H. B. Ammar, K. Tuyls, M. E. Taylor, K. Driessens, and G. Weiss, "[Reinforcement learning transfer via sparse coding](https://dl.acm.org/doi/10.5555/2343576.2343631),"  _ICAAMS_, 2012.
 	- **[5]**   J. Oh, S. Singh, H. Lee, and P. Kohli, "[Zero-shot task generalization with multi-task deep reinforcement learning](https://arxiv.org/abs/1706.05064),"  _Proc. 34th Int. Conf. Mach. Learn_, vol. 70, 2017, pp. 2661–2670.
+	- **[6]**   Lian, R., H. Tan, J. Peng, Q. Li, Y. Wu, "[Cross-type transfer for deep reinforcement learning based hybrid electric vehicle energy management](https://ieeexplore.ieee.org/abstract/document/9105110),"  _IEEE Transactions on Vehicular Technology_, 2020. **[Code Available](https://github.com/lryz0612/Transfer_DRL_EMS)**.
 
 - __Representation Transfer__
 	- **[1]**   J. C. Petangoda, S. Pascual-Diaz, V. Adam, P. Vrancx, and J. Grau-Moya, "[Disentangled skill embeddings for reinforcement learning](https://arxiv.org/abs/1906.09223),"  _arXiv preprint_:1906.09223, 2019.
