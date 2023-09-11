@@ -22,6 +22,7 @@
   	- **[3]**   T. Hester, M. Vecerik, O. Pietquin, M. Lanctot, T. Schaul, B. Piot, D. Horgan, J. Quan, A. Sendonaris, I. Osband et al., "[Deep q-learning from demonstrations](https://arxiv.org/abs/1704.03732),"  _AAAI_, 2018
 	- **[4]**   A. Nair, B. McGrew, M. Andrychowicz, W. Zaremba, and P. Abbeel, "[Overcoming exploration in reinforcement learning with demonstrations](https://arxiv.org/abs/1709.10089),"  _IEEE International Conference on Robotics and Automation (ICRA)_, 2018.
 	- **[5]**   Yaser Keneshloo, Naren Ramakrishnan, Chandan K. Reddy, "[Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/abs/1810.06667),"   _arXiv preprint_:1810.06667. **[Code Available](https://github.com/yaserkl/TransferRL)**.
+ - 	- **[6]**   Lian, R., H. Tan, J. Peng, Q. Li, Y. Wu, "[Cross-type transfer for deep reinforcement learning based hybrid electric vehicle energy management](https://ieeexplore.ieee.org/abstract/document/9105110),"  _IEEE Transactions on Vehicular Technology_, 2020. **[Code Available](https://github.com/lryz0612/Transfer_DRL_EMS)**.
 
 - __Inter-Task Mapping__
 	- **[1]**   A. Gupta, C. Devin, Y. Liu, P. Abbeel, and S. Levine, "[Learning invariant feature spaces to transfer skills with reinforcement learning](https://arxiv.org/abs/1703.02949),"  _ICLR_, 2017.
@@ -29,7 +30,6 @@
 	- **[3]**   H. B. Ammar, E. Eaton, P. Ruvolo, and M. E. Taylor, "[Unsupervised cross-domain transfer in policy gradient reinforcement learning via manifold alignment](https://dl.acm.org/doi/10.5555/2886521.2886669),"  _AAAI_, 2015.
 	- **[4]**   H. B. Ammar, K. Tuyls, M. E. Taylor, K. Driessens, and G. Weiss, "[Reinforcement learning transfer via sparse coding](https://dl.acm.org/doi/10.5555/2343576.2343631),"  _ICAAMS_, 2012.
 	- **[5]**   J. Oh, S. Singh, H. Lee, and P. Kohli, "[Zero-shot task generalization with multi-task deep reinforcement learning](https://arxiv.org/abs/1706.05064),"  _Proc. 34th Int. Conf. Mach. Learn_, vol. 70, 2017, pp. 2661–2670.
-	- **[6]**   Lian, R., H. Tan, J. Peng, Q. Li, Y. Wu, "[Cross-type transfer for deep reinforcement learning based hybrid electric vehicle energy management](https://ieeexplore.ieee.org/abstract/document/9105110),"  _IEEE Transactions on Vehicular Technology_, 2020. **[Code Available](https://github.com/lryz0612/Transfer_DRL_EMS)**.
 
 - __Representation Transfer__
 	- **[1]**   J. C. Petangoda, S. Pascual-Diaz, V. Adam, P. Vrancx, and J. Grau-Moya, "[Disentangled skill embeddings for reinforcement learning](https://arxiv.org/abs/1906.09223),"  _arXiv preprint_:1906.09223, 2019.
