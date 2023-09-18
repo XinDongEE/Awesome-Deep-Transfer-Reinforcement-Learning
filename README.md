@@ -5,7 +5,6 @@
 ![issues](https://img.shields.io/github/issues/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning.svg) 
 ![stars](https://img.shields.io/github/stars/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning.svg)
 ![forks](https://img.shields.io/github/forks/XinDongEE/Awesome-Deep-Transfer-Reinforcement-Learning.svg)
-[![Security Status](https://www.murphysec.com/platform3/v31/badge/1703624393803743232.svg)](https://www.murphysec.com/console/report/1703624393619193856/1703624393803743232)
 
 ### __Introduction__
 Welcome to the Awesome-Deep-Transfer-Reinforcement-Learning library! This project is dedicated to deep transfer reinforcement learning (DTRL), a  field at the intersection of deep learning, reinforcement learning, and transfer learning.
