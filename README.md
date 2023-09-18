@@ -12,7 +12,7 @@ Welcome to the Awesome-Deep-Transfer-Reinforcement-Learning library! This projec
 DTRL uses the strengths of deep learning to handle high-dimensional inputs and complex function approximations, the decision-making prowess of reinforcement learning, and the domain adaptability of transfer learning. The core idea is to train an agent in a source domain and enable it to generalize its knowledge and skills to a target domain without requiring extensive training in the target domain.
 **This approach is particularly beneficial in scenarios where obtaining training data in the target domain is challenging, a situation frequently encountered in many fields, and notably in power system research（Frequency control，Voltage control, Damping control, Emergency control, et al.), my primary area of focus, where relevant, real-world, and effective data are often scarce.** It is a promising approach to navigate complex learning domains and provide a more feasible way to develop robust optimization strategies for various tasks.
 
-In this library, we curate a rich set of resources including recent papers, recent research advancements, and codebases to facilitate a deeper understanding and application of DTRL. Whether you are a researcher, a developer, or an enthusiast eager to delve into this exciting field, this library is for you.
+In this library, we curate a rich set of resources including recent papers, recent research advancements, and codebases to facilitate a deeper understanding and application of DTRL. Whether you are a researcher, a developer, or an enthusiast eager to delve into this exciting field, this library is for you. 
 
 ### __Contents__
 - __Reward Shaping__
@@ -43,7 +43,7 @@ In this library, we curate a rich set of resources including recent papers, rece
 	- **[5]**   J. Oh, S. Singh, H. Lee, and P. Kohli, "[Zero-shot task generalization with multi-task deep reinforcement learning](https://arxiv.org/abs/1706.05064),"  _Proc. 34th Int. Conf. Mach. Learn_, vol. 70, 2017, pp. 2661–2670.
 	- **[6]**   Parisotto E, Ba JL, Salakhutdinov R, "[Actor-mimic: Deep multitask and transfer reinforcement learning](https://arxiv.org/abs/1511.06342),"  _arXiv preprint_:1511.06342. 2015 Nov 19.
 
-- __Representation Transfer__
+- __Representation Transfer(表示学习)__
 	- **[1]**   J. C. Petangoda, S. Pascual-Diaz, V. Adam, P. Vrancx, and J. Grau-Moya, "[Disentangled skill embeddings for reinforcement learning](https://arxiv.org/abs/1906.09223),"  _arXiv preprint_:1906.09223, 2019.
 	- **[2]**   C. Finn, P. Abbeel, and S. Levine, "[Model-agnostic meta-learning for fast adaptation of deep networks](https://arxiv.org/abs/1703.03400),"  _ICML_, 2017.
 	- **[3]**   Y. Deng, F. Bao, Y. Kong, Z. Ren and Q. Dai, "[Deep Direct Reinforcement Learning for Financial Signal Representation and Trading](https://ieeexplore.ieee.org/document/7407387),"  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 28, no. 3, pp. 653-664, March 2017.
